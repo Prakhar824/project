@@ -71,4 +71,6 @@ void display()
       }
       printf("%d--->NULL\n",temp->data);
    }
+   return 0;
+   //added by Nishkarsh Raj Khare
 }    
